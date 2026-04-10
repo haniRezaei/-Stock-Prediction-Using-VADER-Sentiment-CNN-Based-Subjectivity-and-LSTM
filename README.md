@@ -26,5 +26,5 @@ Incorporating SubjObj_Score improves the quality of sentiment features by filter
 
 
 
-
+This repository introduces a novel subjectivity-aware sentiment engine. By integrating a 1D-CNN trained on subjectivity detection, we effectively denoise financial news, ensuring that the LSTM prediction model prioritizes impactful subjective sentiment over neutral objective reportin
 
